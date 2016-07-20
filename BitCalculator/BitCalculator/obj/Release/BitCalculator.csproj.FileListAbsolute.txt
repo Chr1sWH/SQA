@@ -1,0 +1,5 @@
+C:\Users\artem.scheuermann\Desktop\Projekt\av_project\BitCalculator\BitCalculator\bin\Release\BitCalculator.exe.config
+C:\Users\artem.scheuermann\Desktop\Projekt\av_project\BitCalculator\BitCalculator\bin\Release\BitCalculator.exe
+C:\Users\artem.scheuermann\Desktop\Projekt\av_project\BitCalculator\BitCalculator\bin\Release\BitCalculator.pdb
+C:\Users\artem.scheuermann\Desktop\Projekt\av_project\BitCalculator\BitCalculator\obj\Release\BitCalculator.exe
+C:\Users\artem.scheuermann\Desktop\Projekt\av_project\BitCalculator\BitCalculator\obj\Release\BitCalculator.pdb
